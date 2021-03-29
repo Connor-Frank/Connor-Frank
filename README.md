@@ -1,7 +1,7 @@
 ### Connor Frank
 - High school student
 
-[![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Connor-Frank/Connor-Frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
