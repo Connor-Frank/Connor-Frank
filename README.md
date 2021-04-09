@@ -8,13 +8,18 @@ High school student
 
 **Things I like and/or use:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code>
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+</code>
 
 **My Github stats:**
 
