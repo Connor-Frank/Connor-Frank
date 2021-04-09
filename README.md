@@ -1,7 +1,23 @@
 ### Connor Frank
-- High school student
+High school student
 
-[![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on [statistics-projects](https://github.com/Connor-Frank/statistics-projects)
+
+**Things I like and/or use:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+
+**My Github stats:**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Frank&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
 
 <!--
 **Connor-Frank/Connor-Frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
