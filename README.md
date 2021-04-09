@@ -1,7 +1,8 @@
 ### Connor Frank
 High school student
 
-- Prefers spaces (2) over tabs, Vim over Emacs, and dark mode over light mode
+- I prefer spaces (2) over tabs, Vim over Emacs, and dark mode over light mode
+- I use Arch btw
 - 🔭 I’m currently working on [statistics-projects](https://github.com/Connor-Frank/statistics-projects)
 - 🌱 I’m currently learning Golang and Rust
 
