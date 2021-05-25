@@ -10,16 +10,18 @@ High school student
 **Things I like and/or use:**  
 
 <p float="left">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/archlinux/archlinux.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img alt="Monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white">
+  <img alt="Thonkpad" src="https://img.shields.io/badge/Thinkpad-X1_Carbon-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/RASPBERRY_PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white">
+  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&ogoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 **My Github stats:**
