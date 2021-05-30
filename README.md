@@ -2,7 +2,7 @@
 High school student
 
 - I prefer spaces (2) over tabs, Vim over Emacs, and dark mode over light mode
-- I use Arch btw
+- I use Void Linux and Arch Linux (btw)
 - I'm a proud ThinkPad user
 - I’m currently working on [statistics-projects](https://github.com/Connor-Frank/statistics-projects)
 - I’m currently learning more about C
