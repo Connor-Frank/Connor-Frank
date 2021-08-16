@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&include_all_commits=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Frank&show_icons=true&include_all_commits=true&count_private=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Frank&show_icons=true&title_color=05bc79&text_color=0fa8cd&icon_color=2472c8&bg_color=262a33">
 -->
